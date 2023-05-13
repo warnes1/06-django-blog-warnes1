@@ -1,1 +1,1 @@
-# Assignment06-django-blog-warnes1
+# 06-django-blog-warnes1
